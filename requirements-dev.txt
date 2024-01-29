@@ -1,0 +1,5 @@
+jupyter
+jupyterlab
+kaggle
+mananeras
+python-slugify
